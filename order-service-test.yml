@@ -54,4 +54,4 @@ management:
         include: "*"
 
 env:test
-branch:test
+branch:master
