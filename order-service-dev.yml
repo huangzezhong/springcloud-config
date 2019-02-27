@@ -26,7 +26,7 @@ product-service:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 server:
-  port: 8781
+  port: 8782
 spring:
   application:
     name: order-service
