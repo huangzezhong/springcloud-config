@@ -15,4 +15,4 @@ spring:
     username: guest
     password: guest
 
-env: test2018
+env: test2019
