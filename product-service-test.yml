@@ -28,4 +28,4 @@ spring:
         exposure:
           include: "*"
 
-env: test
+env: test2018
