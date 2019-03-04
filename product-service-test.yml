@@ -21,11 +21,5 @@ spring:
     port: 5672
     username: guest
     password: guest
-  #暴露全部的监控信息
-  management:
-    endpoints:
-      web:
-        exposure:
-          include: "*"
 
-env: test2018
+env: test2019
